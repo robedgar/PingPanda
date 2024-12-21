@@ -14,8 +14,8 @@ const eb_garamond = EB_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: "PingPanda",
-  description: "Created by Rob Edgar",
+  title: "jStack App",
+  description: "Created using jStack",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 }
 
